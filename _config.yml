@@ -1,0 +1,28 @@
+name: Spa915
+favicon: null
+layout_spectrum: 0.30760457343421876
+typography_spectrum: 0.9122577328234911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5697859113570303
+  lightness: 0.8158300982322544
+  saturation: 0.7549675290938467
+  rhythmicContrast: 0.5952229648828506
+purpose: []
